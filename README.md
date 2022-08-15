@@ -21,3 +21,8 @@ If you like what I do, you can make a donation so I can buy a real pc :
 📫 If you have an idea for a project you can contact me here : cboscode@proton.me
 
 ![Blockchain-Webpage-Banner](https://user-images.githubusercontent.com/108202522/184701075-d5605c9e-5b6c-4d5f-ab2a-fe5ceb4d76a5.jpg)
+
+# <p align="center">PNumber of people who have seen my profile </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
+</p>
