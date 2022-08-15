@@ -10,7 +10,7 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 
 👨‍💻 and code. I am currently learning c and c++.
 
-If you like what I do, you can make a donation so I can buy a real pc : 
+🌀 If you like what I do, you can make a donation so I can buy a real pc : 
 
 ☕ You can send ethers here : 0xf614A5AC27C06102B03971aaBf495435951081f3
 
@@ -22,7 +22,7 @@ If you like what I do, you can make a donation so I can buy a real pc :
 
 ![Blockchain-Webpage-Banner](https://user-images.githubusercontent.com/108202522/184701075-d5605c9e-5b6c-4d5f-ab2a-fe5ceb4d76a5.jpg)
 
-# <p align="center">PNumber of people who have seen my profile </p>
+# <p align="center">🌜 Number of people who have click pn my profile 🌛</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
 </p>
