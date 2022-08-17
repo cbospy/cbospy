@@ -22,7 +22,9 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 
 ![Blockchain-Webpage-Banner](https://user-images.githubusercontent.com/108202522/184701075-d5605c9e-5b6c-4d5f-ab2a-fe5ceb4d76a5.jpg)
 
-# <p align="center">🌜 Number of people who have click on my profile 🌛</p>
+# <p align="center">🌜 Number of people who have clicked on my profile 🌛</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
 </p>
+
+# <p align="center">🏯 Some Good Repositories 🏯</p>
