@@ -27,4 +27,10 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
   <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
 </p>
 
+
+
 # <p align="center">🏯 Some Good Repositories 🏯</p>
+
+👺 https://github.com/mxrch/GHunt
+🍙 https://github.com/jgamblin/Mirai-Source-Code
+
