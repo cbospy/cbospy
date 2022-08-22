@@ -38,6 +38,10 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
 
+# <p align="center"> My github stats </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cbospy&theme=tokyonight&show_icons=true"/>
+</p>
 
 
 # <p align="center"> My softwares </p>
