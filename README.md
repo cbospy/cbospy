@@ -38,9 +38,6 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
 </p>
 
-# <p align="center"> My contributions </p>
-
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/108202522/186023777-63a88a2b-c8b2-44d9-87c9-15d2c3602016.svg)
 
 
 # <p align="center"> My softwares </p>
