@@ -29,7 +29,12 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
   <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
 </p>
 
+# <p align="center"> My languages </p>
 
+# https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg | https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg | https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+
+# <p align="center"> My ssoftwares </p>
+# https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg | https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
 
 # <p align="center">🏯 Some Good Repositories 🏯</p>
 
