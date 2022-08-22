@@ -30,11 +30,18 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 </p>
 
 # <p align="center"> My languages </p>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/>
+</p>
 
-# https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg | https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg | https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+# <p align="center"> My softwares </p>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55"/>
+</p>
 
-# <p align="center"> My ssoftwares </p>
-# https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg | https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
 
 # <p align="center">🏯 Some Good Repositories 🏯</p>
 
