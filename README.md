@@ -4,6 +4,8 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 
 ![images](https://user-images.githubusercontent.com/108202522/184701176-eff977aa-873e-4954-bfc5-6cd60707b54e.jpg)
 
+🥊 Boxing 💪, 
+
 📈📉 trading (not a game don't be stupid), 
 
 🌪️ crypto currency,
@@ -32,5 +34,6 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 # <p align="center">🏯 Some Good Repositories 🏯</p>
 
 👺 https://github.com/mxrch/GHunt
+
 🍙 https://github.com/jgamblin/Mirai-Source-Code
 
