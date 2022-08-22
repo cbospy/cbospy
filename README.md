@@ -2,7 +2,8 @@
 
 Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 
-![images](https://user-images.githubusercontent.com/108202522/184701176-eff977aa-873e-4954-bfc5-6cd60707b54e.jpg)
+![AmpleHorribleDalmatian-size_restricted](https://user-images.githubusercontent.com/108202522/186022819-14eb77b2-0444-4274-aaba-3c61e90eb826.gif)
+
 
 🥊 Boxing 💪, 
 
@@ -22,7 +23,8 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 
 📫 If you have an idea for a project you can contact me here : cboscode@proton.me
 
-![Blockchain-Webpage-Banner](https://user-images.githubusercontent.com/108202522/184701075-d5605c9e-5b6c-4d5f-ab2a-fe5ceb4d76a5.jpg)
+![1b1a85b0f400c6ca8431b15f610a78ef](https://user-images.githubusercontent.com/108202522/186021017-bfb8cdb2-d465-4342-930a-12423d2174a6.png)
+
 
 # <p align="center">🌜 Number of people who have clicked on my profile 🌛</p>
 <p align="center">
