@@ -6,6 +6,7 @@
 
 # <p align="center">Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 </p>
+<p align="center">
 
 🥊 Boxing 💪, 
 
@@ -24,6 +25,7 @@
 💡 I plan to make some simple programs that I will post on my github and some more complicated ones (if I can) that I will sell to buy a pc.
 
 📫 If you have an idea for a project you can contact me here : cboscode@proton.me
+</p>
 
 
 <p align="center">
