@@ -1,10 +1,13 @@
-# cbos
+# <p align="center">cbos's github</p>
 
-Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
+<p align="center">
+  <img src="https://i.pinimg.com/736x/07/18/ba/0718ba40484fd71786d8e655542d2f57.jpg" />
+</p>
 
-![AmpleHorribleDalmatian-size_restricted](https://user-images.githubusercontent.com/108202522/186022819-14eb77b2-0444-4274-aaba-3c61e90eb826.gif)
+# <p align="center">Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
+</p>
 
-
+<p align="center">
 🥊 Boxing 💪, 
 
 📈📉 trading (not a game don't be stupid), 
@@ -22,6 +25,7 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 💡 I plan to make some simple programs that I will post on my github and some more complicated ones (if I can) that I will sell to buy a pc.
 
 📫 If you have an idea for a project you can contact me here : cboscode@proton.me
+</p>
 
 ![1b1a85b0f400c6ca8431b15f610a78ef](https://user-images.githubusercontent.com/108202522/186021017-bfb8cdb2-d465-4342-930a-12423d2174a6.png)
 
@@ -30,6 +34,9 @@ Hey I am a 14 year old developer (I am learning anyway). I am passionate about:
 <p align="center">
   <img src="https://profile-counter.glitch.me/cbospy/count.svg" />
 </p>
+
+
+
 
 # <p align="center"> My languages </p>
 <p align="center">
