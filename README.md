@@ -58,3 +58,5 @@
 
 🍙 https://github.com/jgamblin/Mirai-Source-Code
 
+https://github.com/Timezero1/Anti-Cursed-Darkness-Squad-BETA
+
